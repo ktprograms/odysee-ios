@@ -44,11 +44,11 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSCameraUsageDescription</key>
-	<string>Odysee requires access to your camera to take photos.</string>
+	<string>The app uses your camera to capture thumbnails and when you&apos;re livestreaming.</string>
 	<key>NSMicrophoneUsageDescription</key>
-	<string>Odysee requires access to your microphone to capture audio.</string>
+	<string>The app uses your microphone when you&apos;re livestreaming.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>Odysee requires access to your photo library.</string>
+	<string>The app requires access to your photo library to choose thumbnails and publish content.</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
